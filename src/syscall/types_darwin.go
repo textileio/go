@@ -28,7 +28,6 @@ package syscall
 #include <sys/mman.h>
 #include <sys/mount.h>
 #include <sys/param.h>
-#include <sys/ptrace.h>
 #include <sys/resource.h>
 #include <sys/select.h>
 #include <sys/signal.h>
